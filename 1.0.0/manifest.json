@@ -1,8 +1,8 @@
 {
     "polymod": {
-        "name": "",
-        "id": "",
-        "author": "",
+        "name": "polyjump",
+        "id": "polyjump",
+        "author": "blobbo",
         "targets": ["0.5.1"],
         "main": "main.mod.js"
     },
